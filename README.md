@@ -1,3 +1,4 @@
+Thalyta 
 # Guia de Testes e Cobertura
 
 Este documento descreve, de forma objetiva, como:
